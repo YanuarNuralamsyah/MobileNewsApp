@@ -1,0 +1,24 @@
+{
+  "DATA_NEWS": [
+	{
+	  "title_news": "Rice Cooker Cottage Cheese Cake",
+	  "link_news": "<p>Ini <span style=\"color: #ff0000;\">adalah</span> contoh<strong>penulisan</strong> berita pada aplikasi <span style=\"text-decoration:underline;\"><em><strong>Project News</strong></em></span></p>",
+	  "image_link": "file:///android_asset/image/cheese.webp"
+	},
+	{
+	  "title_news": "Easy butter croissants",
+	  "link_news": "<p>Ini <span style=\"color: #ff0000;\">adalah</span> contoh<strong>penulisan</strong> berita pada aplikasi <span style=\"text-decoration:underline;\"><em><strong>Project News</strong></em></span></p>",
+	  "image_link": "file:///android_asset/image/croissants.webp"
+	},
+	{
+	  "title_news": "Garlic butter steak bites",
+	  "link_news": "<p>Ini <span style=\"color: #ff0000;\">adalah</span> contoh<strong>penulisan</strong> berita pada aplikasi <span style=\"text-decoration:underline;\"><em><strong>Project News</strong></em></span></p>",
+	  "image_link": "file:///android_asset/image/steak.webp"
+	},
+	{
+	  "title_news": "Vegetable chow mein",
+	  "link_news": "<p>Ini <span style=\"color: #ff0000;\">adalah</span> contoh<strong>penulisan</strong> berita pada aplikasi <span style=\"text-decoration:underline;\"><em><strong>Project News</strong></em></span></p>",
+	  "image_link": "file:///android_asset/image/vegetable.webp"
+	}
+  ]
+}
